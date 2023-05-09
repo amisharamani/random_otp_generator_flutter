@@ -1,6 +1,7 @@
 # proj_9_2
 
 A new Flutter project.
+![9_2](https://user-images.githubusercontent.com/130687844/237021915-728e8bb7-ed20-4ad3-bb4d-46b832ebc1a4.png)
 
 ## Getting Started
 
